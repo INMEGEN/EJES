@@ -6,3 +6,5 @@ En esta era de la información no será dificil conseguir cualquiera de estas pe
 | título                          | tags
 |---------------------------------|------------------
 | Blade Runner                    | Inteligencia Artificial
+|---------------------------------|------------------
+| Amar la vida ("Wit")            | Enfermedad, muerte
