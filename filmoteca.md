@@ -19,5 +19,6 @@ En esta era de la información no será dificil conseguir cualquiera de estas pe
 | Koyaanisqatsi                   | catástrofes, contaminación, no ficción                          | Hugo
 | Hasta el fin del mundo          | destrucción del mundo, catástrofes, futuro, SciFi, sueños       | Hugo
 | Exterminio (“28 Days Later”)    | destrucción del mundo, catástrofes, epidemias, zombies          | Garbiñe
+| Repo! The Genetic Opera         | genomica,  futuro, Enfermedad, distopía, SciFi, musica          | Hugo (Mike)
 | Cuando el bosque no deja ver los árboles |  | Rodrigo
 | Tideland                        | | Hugo
