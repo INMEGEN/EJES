@@ -23,3 +23,6 @@ En esta era de la información no será dificil conseguir cualquiera de estas pe
 | El Congreso                     | SciFi, futuro, cerebro, autonomia, drogas, relidad              | Hugo
 | Cuando el bosque no deja ver los árboles |  | Rodrigo
 | Tideland                        | | Hugo
+|Siempre Alice (“Still Alice”)    |Enfermedad, autonomía                                            |Violeta
+|El dador de recuerdos (“The Giver”)| Libertad, igualdad                                            |Violeta
+|Trascender ("Transcendence")     |SciF                                                             |Violeta
